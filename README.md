@@ -1,7 +1,12 @@
 # Methods in Ruby
-
+def greeting
+puts "Hello World"
+end
 ## Overview
+def say_hello_world_ten_times
+puts = "Hello World"
 
+end 
 In this lesson, we'll introduce methods, distinguish them from data types, and
 cover how to create and execute them in your Ruby program.
 
